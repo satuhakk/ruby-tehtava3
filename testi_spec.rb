@@ -1,7 +1,7 @@
 require './koodi.rb'
 
-RSpec.describe 'metodi summa' do
-  it "palauttaa parametriensa summan" do
+RSpec.describe 'metodi kertoma' do
+  it "palauttaa parametrinsa kertoman" do
     method_exists(self, :kertoma, 1)
     expect(kertoma(1)).to eq(1)
     expect(kertoma(3)).to eq(6)

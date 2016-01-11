@@ -1,4 +1,4 @@
-Tee metodi `kertoma? joka palauttaa parametrinaan saamansa luvun kertoman
+Tee metodi `kertoma` joka palauttaa parametrinaan saamansa luvun kertoman
 
 --
 
